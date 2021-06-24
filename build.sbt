@@ -3,7 +3,7 @@ lazy val root =
     .in(file("."))
     .settings(
       organization := "io.github.mavenrain",
-      name := "scala3-docker",
+      name := "jdbc-async-template",
       version := "0.1.0-SNAPSHOT",
       versionScheme := Some("early-semver"),
 
